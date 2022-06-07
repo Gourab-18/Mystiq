@@ -15,3 +15,4 @@ A subscription-based platform where content creators can earn money from users w
 ## Links
 1. Project Demo - https://www.youtube.com/watch?v=PPkghasOmsU
 2. Devfolio Link - https://devfolio.co/submissions/mystiq-45ab
+3. Hosted link- https://mystiqv1.herokuapp.com/
